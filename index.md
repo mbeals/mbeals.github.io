@@ -6,5 +6,5 @@ Link to using [Markdown](https://guides.github.com/features/mastering-markdown/)
 
 Here's how you add images:
 
-![Image of my mind](images/inner_machinations.png)
+![Image of my mind](images/inner_machinations.jpg)
 
