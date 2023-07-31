@@ -14,6 +14,9 @@ This post summarizes my main takeaways from [Practical Deep Learning for Coders 
 ## Summary
 - How to use data augmentation to increase the amount of training you can do on the same size dataset
 - How to set up a local environment to run Jupyter Notebooks
+- [Drivetrain approach](https://www.oreilly.com/radar/drivetrain-approach-data-products/): A four-step process for building data products
+  + ![Drivetrain Approach](/assets/img/drivetrain-approach.png){: width="900" height="210" }
+_Full screen width and center alignment_
 - We actually deployed a working model out into the world! Mine is a cat type identifier between birmans, munchkins, ragdolls, and ragamuffins because I have trouble keeping them apart sometimes. Here is the [HuggingFace Spaces link](https://huggingface.co/spaces/michbeals/fastai_meowMeow_identifier)!
   + I followed Tanishq's excellent [Gradio + HuggingFace Spaces Tutorial](https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial).
 - How to set up a blog (hence why this exists)!
